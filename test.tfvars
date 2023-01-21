@@ -1,0 +1,7 @@
+environment_name = "testing"
+http_port        = "80"
+vpc_cidr         = "100.120.0.0/16"
+public1_cidr     = "100.120.128.0/17"
+public2_cidr     = "100.120.0.0/19"
+private1_cidr    = "100.120.64.0/19"
+private2_cidr    = "100.120.32.0/19"

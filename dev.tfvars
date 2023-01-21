@@ -1,0 +1,7 @@
+environment_name = "development"
+http_port        = "80"
+vpc_cidr         = "100.110.0.0/16"
+public1_cidr     = "100.110.0.0/19"
+public2_cidr     = "100.110.32.0/19"
+private1_cidr    = "100.110.64.0/18"
+private2_cidr    = "100.110.128.0/17"
